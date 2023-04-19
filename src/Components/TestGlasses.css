@@ -1,0 +1,31 @@
+
+.bg-opacity{
+    background-color: rgba(0, 0, 0, .6);
+    min-height: 2000px;
+}
+.img-model{
+    width: 250px;
+}
+.img-glasses{
+    width: 150px;
+    top:  75px;
+    right: 70px;
+    opacity: .7;
+}
+.info-glasses{
+    width: 250px;
+    top: 200px;
+    left: 273px;
+    padding-left: 15px;
+    background-color: rgba(255,127 , 0 ,0.5);
+    text-align: left;
+    height: 105px;
+}
+.fs-des{
+    font-size: 13px;
+    font-weight: 400;
+}
+.img-list{
+    width: 110px;
+    cursor: pointer;
+}
